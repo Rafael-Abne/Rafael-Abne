@@ -6,9 +6,9 @@
 <h3 align="center">A developer passionate about technology.</h3>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact"><img alt="Ryihan Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryihan&theme=radical&langs_count=6&layout=compact" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-abne&theme=radical&langs_count=6&layout=compact"><img alt="Rafael Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-abne&theme=radical&langs_count=6&layout=compact" /></a>
  </p>
-<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
+<h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=rafael-abne&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001" /></h2>
 
 <p align="center">
   <a href="https://br.linkedin.com/in/rafael-abne-728151168">
