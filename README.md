@@ -28,7 +28,6 @@
 <p align="center">
   <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
   <a href="https://www.java.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Java/java.png" alt="java" width="40" height="40"/>
-
   <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
   <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
   <a href="https://git-scm.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
@@ -38,7 +37,7 @@
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://petsistemas.ufms.br/wp-content/uploads/2015/09/Webysther_20160423_-_Elephpant.svg_.png" alt="espressif" width="40" height="40"/>
-    <a href="https://github.com/keikomori/icons-badges/blob/master/icons/Trello/trello.png" alt="wordpress" width="40" height="40"/>
+  <a href="https://github.com/keikomori/icons-badges/blob/master/icons/Trello/trello.png" alt="wordpress" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
     
