@@ -37,7 +37,7 @@
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://github.com/keikomori/icons-badges/blob/master/icons/Trello/trello.png" alt="wordpress" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
-  <a href="https://php.net"><img src="https://pngimg.com/uploads/php/php_PNG26.png" alt="php" width="40" height="40"/>
+  <a href="https://php.net"><img src="https://petsistemas.ufms.br/wp-content/uploads/2015/09/Webysther_20160423_-_Elephpant.svg_.png" alt="php" width="40" height="40"/>
 </p>
     
     
