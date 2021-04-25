@@ -37,7 +37,7 @@
   <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
-  <a href="https://www.espressif.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Espressif/espressif.svg" alt="espressif" width="40" height="40"/>
+  <a href="https://petsistemas.ufms.br/wp-content/uploads/2015/09/Webysther_20160423_-_Elephpant.svg_.png" alt="espressif" width="40" height="40"/>
     <a href="https://github.com/keikomori/icons-badges/blob/master/icons/Trello/trello.png" alt="wordpress" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
