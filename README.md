@@ -1,8 +1,8 @@
 
 
 <h1 align="center">
+  <img width="80" src="https://raw.githubusercontent.com/vikichand/vikichand/master/assets/images/particle_circle.gif">
   Welcome to Rafael Abne profile!
-  <img width="50" src="https://raw.githubusercontent.com/vikichand/vikichand/master/assets/images/particle_circle.gif">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
