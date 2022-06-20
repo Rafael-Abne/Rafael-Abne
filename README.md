@@ -27,7 +27,7 @@
 
 <p align="center">
   <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img  width="40" height="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)"/>
+  <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <a href="https://php.net"><img src="https://petsistemas.ufms.br/wp-content/uploads/2015/09/Webysther_20160423_-_Elephpant.svg_.png" alt="php" width="40" height="40"/>
  <a href="https://laravel.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
