@@ -30,11 +30,11 @@
   <img  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <a href="https://php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
  <a href="https://laravel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
-  <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
-  <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
-  <a href="https://git-scm.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
-  <a href="https://mysql.com"><img src="https://pngimg.com/uploads/mysql/mysql_PNG25.png" alt="mysql" width="40" height="40"/>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <a href="https://mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <a href="https://github.com/keikomori/icons-badges/blob/master/icons/Trello/trello.png" alt="trello" width="40" height="40"/>
   <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
